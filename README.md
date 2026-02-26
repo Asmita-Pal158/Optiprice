@@ -1,8 +1,8 @@
-Dynamic Price Optimizer
-
+**Dynamic Price Optimizer
+**
 A Dynamic Price Optimizer that adjusts product prices based on demand, competition, and inventory levels to maximize overall profit.
 
-Overview
+**Overview**
 
 This project implements a pricing optimization system that analyzes:
 
@@ -16,7 +16,7 @@ Using these inputs, the system dynamically updates product prices to achieve max
 
 The model can be applied in e-commerce, retail platforms, marketplaces, or any environment where pricing strategy directly impacts revenue.
 
-Problem Statement
+**Problem Statement**
 
 Static pricing strategies often fail to respond to:
 
@@ -36,7 +36,7 @@ Reduced competitiveness
 
 The goal of this project is to build a system that continuously optimizes prices using data-driven decision-making.
 
-Key Features
+**Key Features**
 
 Demand-based price adjustment
 
@@ -50,7 +50,7 @@ Modular and scalable architecture
 
 Easily extendable for real-time deployment
 
-How It Works
+**How It Works**
 
 The optimizer considers three main factors:
 
@@ -99,7 +99,7 @@ Business rules
 
 The system updates prices iteratively based on these constraints.
 
-Tech Stack
+**Tech Stack**
 
 Python
 
